@@ -19,7 +19,7 @@
 </div><br/>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Tatilinck}/count.svg" /></p> 
 <br></div>
 
