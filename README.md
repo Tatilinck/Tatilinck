@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tatilinck&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia!
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/php-cccdfc?style=for-the-badge&logo=php&logoColor=546097" />
